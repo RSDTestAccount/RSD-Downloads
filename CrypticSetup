@@ -1,1 +1,14 @@
-
+{
+    "roblox": {
+      "version": "version-302fe31805ab4542",
+      "type": "WindowsPlayer",
+      "channel": "LIVE"
+    },
+    "certificate": {
+      "x64": "-",
+      "x86": null
+    },
+    "cryptic": {
+      "files": "-"
+    }
+  } 
