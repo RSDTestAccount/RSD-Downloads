@@ -5,10 +5,10 @@
       "channel": "LIVE"
     },
     "certificate": {
-      "x64": "-",
+      "x64": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/CrypticSetup.exe",
       "x86": null
     },
     "cryptic": {
-      "files": "-"
+      "files": "https://github.com/RSDTestAccount/RSD-Downloads/raw/refs/heads/main/Cryptic.zip"
     }
   } 
