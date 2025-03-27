@@ -2,7 +2,7 @@
   "Platform": "Windows",
   "Versions": {
     "Software": "Version-3.2.0",
-    "Roblox": "version-bef193a8f3d14d3c"
+    "Roblox": "version-5a6b6797f4e04078"
   },
-  "Changelog": "[+] Improved Protection, [+] Added Triggerbot, [+] Added Chams, [+] Added Draw FPS, [+] Added Music Player (Supports Youtube, Soundcloud and Spotify Playlists)"
+  "Changelog": "Correcting supported version."
 }
