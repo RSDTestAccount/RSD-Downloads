@@ -1,8 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "Version-3.2.0",
+    "Software": "Version-3.2.1",
     "Roblox": "version-5a6b6797f4e04078"
   },
-  "Changelog": "Correcting supported version."
+  "Changelog": "[+] Improved Performance\n[+] Fixed Trigger Bot\n[+] Fixed Camera Lock (Rivals)\n[+] Improved Chams Optimization\n[+] Added Vertical Interface Layout Option"
 }
