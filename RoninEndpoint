@@ -1,8 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "Version-3.3.0",
-    "Roblox": "version-347f4ac346734391"
+    "Software": "Version-3.3.1",
+    "Roblox": "version-c2c9efad42eb44e5"
   },
-  "Changelog": "[+] Added Built In Da-Hood Anti Stomp\n[+] Added Deadzone\n[+] Added Off Screen Arrows\n[+] Added Bhop\n[+] Added Spin Bot\n[+] Fixed Show Ping\n[+] Added Interface Theme Blur Slider\n[+] Added Interface Toggle Key Bind Customizability\n[+] Fixed Bugs"
+  "Changelog": "[+] Added Bad Business Support\n[+] Improved Chams Optimization\n[+] Added Rounded Border Toggle\n[+] Fixed Bugs"
 }
