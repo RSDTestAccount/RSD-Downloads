@@ -2,7 +2,7 @@
   "Platform": "Windows",
   "Versions": {
     "Software": "Version-3.3.2",
-    "Roblox": "version-c3c1514fd260482e"
+    "Roblox": "version-709415a2a1c041d1"
   },
-  "Changelog": ""
+  "Changelog": "Ronin has automatically updated to support the upcoming Roblox version."
 }
