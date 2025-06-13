@@ -1,8 +1,8 @@
 {
   "Platform": "Windows",
   "Versions": {
-    "Software": "Version-3.5.0",
+    "Software": "Version-3.5.1",
     "Roblox": "version-9bf2d7ce6a0345d5"
   },
-  "Changelog": "[+] Added War Tycoon Support\n[+] Added SCP: Roleplay Support\n[+] Added Fallen Survival Support\n[+] Improved Wall Check\n[+] Improved Silent Aim (Da Hood)\n[+] Added Display Damage Output\n[+] Improved Wall Check\n[+] Fixed Music Player\n[+] Fixed Anti Stomp (Da Hood)\n[+] Added Rapid Fire (Da Hood)\n[+] Added Vehicle Fly (Da Hood)"
+  "Changelog": "[+] Fixed Bugs\n[+] Improved Thread Optimization\n[+] Improved Read / Write Speeds\n[+] Spoofed Silent Aim (Da Hood)\n[+] Optimized Flight\n[+] Server Sided Da Hood Rapid Fire (AUG, SMG, LMG)"
 }
