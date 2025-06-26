@@ -1,8 +1,8 @@
 {
-  "Platform": "Windows",
-  "Versions": {
-    "Software": "Version-3.5.2",
-    "Roblox": "version-82f8ee8d17124507"
-  },
-  "Changelog": "Reaper wasn't home for a few days, here's a delayed update ping. 👍"
+    "Platform": "Windows",
+    "Versions": {
+        "Software": "Version-3.5.3",
+        "Roblox": "version-78712d8739f34cb9"
+    },
+    "Changelog": "[+] Fixed Bugs/n[+] Added The Wild West Support/n[+] Updated To Latest Roblox Version/n[+] Added Universal Silent Aim/n[+] Added Visibility Check/n[+] Added No Clip/n[+] Added Void Hide/n[+] Added Include NPCs (The Wild West)"
 }
