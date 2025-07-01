@@ -4,5 +4,5 @@
         "Software": "Version-3.5.4",
         "Roblox": "version-78712d8739f34cb9"
     },
-    "Changelog": "[+] Fixed Wall Check/n [+] Fixed No Clip"
+    "Changelog": "[+] Adjusted Health Check Value\n[+] Fixed Silent Aim Crash"
 }
