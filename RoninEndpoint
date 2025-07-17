@@ -1,8 +1,8 @@
 {
     "Platform": "Windows",
     "Versions": {
-        "Software": "Version-3.5.6",
+        "Software": "Version-3.5.7",
         "Roblox": "version-225e87fdb7254f64"
     },
-    "Changelog": "[+] Reworked Teleport Handler\n[+] Added Blackout Revival Support\n[+] Updated To Latest Roblox Version\n[+] Added Dotted FOV Circle\n[+] Added Animated FOV Circle"
+    "Changelog": "[+] Improved New Teleport Handler\n[+] Added Animated ESP"
 }
