@@ -1,8 +1,8 @@
 {
     "Platform": "Windows",
     "Versions": {
-        "Software": "Version-3.5.7",
-        "Roblox": "version-225e87fdb7254f64"
+        "Software": "Version-3.5.9",
+        "Roblox": "version-2a06298afe3947ab"
     },
-    "Changelog": "[+] Improved New Teleport Handler\n[+] Added Animated ESP"
+    "Changelog": "[+] Updated To Latest Roblox Version"
 }
