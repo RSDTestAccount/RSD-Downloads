@@ -1,8 +1,8 @@
 {
     "Platform": "Windows",
     "Versions": {
-        "Software": "Version-3.5.9f",
-        "Roblox": "version-3f74e22590714de4"
+        "Software": "Version-3.5.9g",
+        "Roblox": "version-ca90f2e615014a44"
     },
-    "Changelog": "[+] Updated To Latest Roblox Version (Super Late Endpoint Update 🔥)"
+    "Changelog": "[+] Updated To Latest Roblox Version\n[+] Improved Thread Performance for Low End Devices\n[+] Optimized Chams\n[+] Optimized Skeletons\n[+] Improved Tracer Outlines\n[+] Improved Bhop (Works on Any Game That Fly Works In)"
 }
