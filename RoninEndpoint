@@ -1,8 +1,8 @@
 {
     "Platform": "Windows",
     "Versions": {
-        "Software": "Version-3.5.9g",
-        "Roblox": "version-fe20d41d8fec4770"
+        "Software": "Version-3.5.9h",
+        "Roblox": "version-89b6c70d8f7f42ac"
     },
-    "Changelog": "-"
+    "Changelog": "[+] Updated To Latest Roblox Version\n[+] Added New Chams Method"
 }
