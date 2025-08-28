@@ -1,8 +1,8 @@
 {
     "Platform": "Windows",
     "Versions": {
-        "Software": "Version-3.5.9h",
-        "Roblox": "version-89b6c70d8f7f42ac"
+        "Software": "Version-3.6.0",
+        "Roblox": "version-7b14ca0aa83149fa"
     },
-    "Changelog": "[+] Updated To Latest Roblox Version\n[+] Added New Chams Method"
+    "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\n[+] Added LuaVM\n\n[+] Improved Wallcheck\nAiming:\n[+] Added Snaplines\nVisuals:\n[+] Added Highlight Chams Type\nMovement:\n[+] Fixed No Clip\nGames:\n[+] Fixed Vehicle Fly\nMisc:\n[+] Added Desync\nSettings:\n[+] Added Alternate Icons\n[+] Added UI Radius Slider\n[+] Added Font Selector System\n[+] Added Tiled User Theme Image\n[+] Added UI Radius Offset Slider\n[+] Added Font Favouriting System\n[+] Added Full UI Color Customizability Capabilities\nUser Interface:\n[+] Added FPS Tracker Container\n[+] Added Ping Tracker Container\n\n[+] Replaced Default Font\n\n[+] Reworked Widgets Layout"
 }
