@@ -1,8 +1,8 @@
 {
     "Platform": "Windows",
     "Versions": {
-        "Software": "Version-3.6.3",
-        "Roblox": "version-c1ac69007bdc4e48"
+        "Software": "Version-3.6.4",
+        "Roblox": "version-8afc5a7d5e894d22"
     },
-    "Changelog": "Core:\n[+] Added LuaVM Raycast\n\n[+] Reworked LuaVM In LuaU\n\nAiming:\n[+] Added Dynamic FOV\n[+] Added Hit Part Randomizer\n[+] Added Triggerbot Toggle Mode\n\nMovement:\n[+] Added Visualize Desync\n\nGames:\n[+] Added Auto Stomp (Da Hood)\n\nEditor:\n[+] Added Built-In Scripts Dropdown\n\nUser Interface:\n[+] Increased Optimization\n\n[+] Reworked Widgets Layout"
+    "Changelog": "Core:\n[+] Added Hypershot Support\n\n[+] Updated To Latest Roblox Version\n\nAiming:\n[+] Added Dynamic FOV Animations\n[+] Added Animated FOV Pulse Animation\n\n[+] Fixed Camera Smoothing\n[+] Fixed Random Hit Part Bugs\n[+] Improved uSilent\n\n[+] Reworked Deadzone\n\nUser Interface:\n[+] Added Editor Animations\n\n[+] Fixed Bugs\n\n(This is a delayed announcement)"
 }
